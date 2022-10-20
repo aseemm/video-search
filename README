@@ -1,6 +1,6 @@
 To build a new react app, follow a two part process
 
-1. Use create-react-app to generate a new project (called jsx)
+1. Use create-react-app to generate a new project (called videos-hooks)
    Using Dockerfile.new, and a fake server.js + package.json
 
 # build image

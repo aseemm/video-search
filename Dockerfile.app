@@ -14,7 +14,7 @@ WORKDIR /src/videos-hooks
 RUN npm install
 RUN npm install --save axios
 # RUN npm install -g create-react-app
-# RUN create-react-app jsx
+# RUN create-react-app videos-hooks
 
 # If you are building your code for production
 # RUN npm ci --only=production
